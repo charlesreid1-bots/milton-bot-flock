@@ -1,13 +1,12 @@
-rmm/
 vp/
-rainbowmindmachine.log
+rmm/
 
 # bot stuff
-apikeys.py
-apikeys.json
+bot/keys/*.json
+bot/apikeys.json
 keys/
 
-# pelican stuff
+# pelican
 cache/
 output/
 
