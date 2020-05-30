@@ -1,0 +1,14 @@
+[Unit]
+Description=milton bot flock
+
+[Service]
+Restart=always
+User={{ milton_user }}
+Group=wheel
+ExecStart={{ milton_path }}/vp/bin/python -u {{ milton_path }}/bot/MiltonBotFlock.py
+ExecStop=/usr/bin/killall {{ milton_path }}/vp/bin/python
+
+[Install]
+WantedBy=default.target
+
+
