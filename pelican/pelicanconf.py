@@ -67,7 +67,7 @@ and tweets the entire contents one line at a time.
 
 For more information about bots and bot flocks, see [bots.charlesreid1.com](https://bots.charlesreid1.com).
 
-Find the bots on twitter at the [paradise lost bot flock twitter list](https://twitter.com/charlesreid1/lists/miltonbotflock)
+Find the bots on twitter at the [paradise lost bot flock twitter list](https://twitter.com/i/lists/1267146364191817730)
 
 [@milton_book1](https://twitter.com/milton_book1) &bull;
 [@milton_book2](https://twitter.com/milton_book2) &bull;
